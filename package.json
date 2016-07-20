@@ -1,0 +1,22 @@
+{
+  "name": "underapply",
+  "version": "0.0.1",
+  "description": "apply with pre-bound context",
+  "main": "index.js",
+  "dependencies": {
+    "once": "1.3.*"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mweitzel/underapply.git"
+  },
+  "author": "Matthew Weitzel <mweitzel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mweitzel/underapply/issues"
+  },
+  "homepage": "https://github.com/mweitzel/underapply#readme"
+}
